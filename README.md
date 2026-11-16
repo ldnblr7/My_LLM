@@ -5,4 +5,4 @@ prepare_input_txt.py:
   Parses the given input text (currently formatted for verse-separated scripture) into a format readable by prepare.py.
 
 prepare.py
-  Implements a tokenizer for the inputted text based off an initial sample size.
+  Creates a tokenizer from the inputted text based off an initial sample size.
