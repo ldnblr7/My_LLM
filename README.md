@@ -1,5 +1,5 @@
 # My_LLM
-A miniature LLM developed in Python. Learns the pattern of the text using a tokenizer and outputs code matching the learned pattern.
+Scope: A miniature large language model that models language based on training data inputted. 
 
 prepare_input_txt.py:
   Parses the given input text (currently formatted for verse-separated scripture) into a format readable by prepare.py.
